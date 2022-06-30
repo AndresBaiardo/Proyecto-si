@@ -1,0 +1,17 @@
+.navbar{
+	width: 63%;
+	margin: auto;
+}
+.form-signup{
+        width: 100%;
+        min-height: 80vh;
+        display: flex;
+        padding: 30px;
+}
+.container-form{
+        border: solid 3px var(--negro-nav);
+        border-radius: 10px;
+        width: 70%;
+        margin: auto;
+        padding: 20px;
+}

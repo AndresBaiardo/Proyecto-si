@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	width: 63%;
+	margin: auto;
+}
+.titulos{
+	padding-top: 40px;
+	padding-left: 20px;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    margin: auto;
+}
+
+.card-group{
+	min-height: 70vh;
+	width: 80%;
+	margin: auto;
+}
+.card{
+	margin: 20px;
+	border: 0;
+	margin-top: 10%;
+	max-height:800px;
+	text-align: center;
+	
+}
+.card img{
+	width: 100%;
+	height: 200px;
+}
+
+

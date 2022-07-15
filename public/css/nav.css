@@ -85,3 +85,9 @@ nav{
     background-color: var(--color-blanco);
     color: var(--negro-nav);
 }
+
+
+#map {
+    height: 500px;
+    width: 100%;
+}
